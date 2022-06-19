@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/**",
+                "/usr/local/**",
+                "/usr/local/Cellar/wxwidgets/3.1.5/**",
+                "/usr/local/Cellar/wxwidgets/3.1.5/include/wx-3.1/wx",
+                "usr/local/Cellar/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang++",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
